@@ -28,13 +28,34 @@ My research interest:
 
 **2022.4 - 2022.9 NIO Automotive Technology Co., Ltd.** | Data Analysis Intern, Battery Test Sub-team
 
-I used
-
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gesture.jpeg" width="30px"  alt=""/> Complex animations and Gesture Handling on React-Native
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/unity.png" height="30px"  alt=""/> Unity 'n' Game Design
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/functional.png" height="30px"  alt=""/> Functional Programming
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/ml.png" height="35px"  alt=""/> ML
-
 **2022.9 - 2023.3 Porsche Engineering (Shanghai) Co., Ltd.** | Intelligent Connected Vehicle (ICV) Intern, Electric & Electronics
 
+# Skills⚡
+
+-  **Robotics:** ROS, OpenCV, Pytorch
+-  **Simulation & Design:** Carla, Unity, Roadrunner, Gazebo, Altium Designer, AutoCAD, LabVIEW, CANoe, Adams/Car, Solidworks, STM32
+-  **Programming:** Python, Matlab/SIMULINK, C/C++
+
 # Projects 💻
+
+## Quadrotor Control and Motion Planning Algorithm Development
+
+## Robotic Arm Control
+
+
+## Query Image Guided Instance Detection and Segmentation Algorithm Development
+
+
+## Digital Twin for Driving as Planning Support Tool 
+
+
+## Virtual Prototype Technology Based on Adams/Car 
+
+
+## Tongji University DIAN Driverless Formula Student Autonomous Team 
+
+
+## Tongji University DIAN Racing Formula Student Electric Team
+
+
+
