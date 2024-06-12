@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a second year master student from University of Pennsylvania. My major is Robotics and my research interest includes computer vision and computational photography, machine learning, control and planning of autonomous systems.
+
+I am very fortunate to be advised by [Prof. Mangharam](https://www.seas.upenn.edu/~rahulm/) of X-Lab from [School of Electrical and Systems Engineering](https://www.ese.upenn.edu/), University of Pennsylvania. I was also advised by [Prof. Matni](https://www.grasp.upenn.edu/people/nikolai-matni/) from [UPenn GRASP Lab](https://www.grasp.upenn.edu/).
+
+You can find my CV here: (https://drive.google.com/file/d/1-piUgO1EKJCcXVaj0L0IjY5svSrVXrPR/view?usp=sharing)).
+
+[Email](mailto:luyingz@seas.upenn.edu)
 
 A data-driven personal website
 ======
