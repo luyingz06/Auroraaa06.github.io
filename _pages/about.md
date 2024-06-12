@@ -20,6 +20,7 @@ My research interest:
 [CV](https://drive.google.com/file/d/1-piUgO1EKJCcXVaj0L0IjY5svSrVXrPR/view?usp=sharing) / [Email](mailto:luyingz@seas.upenn.edu) / [LinkedIn](https://www.linkedin.com/in/luying-zhang-977a47267/)
 
 # Education 🎓
+
 **2018.9 - 2023.7 Tongji University** | Bachelor of Engineering in Vehicle Engineering (Automobile)
 
 **2023.8 - 2025.5 (expected) University of Pennsylvania** | Master of Science in Engineering (Robotics)
