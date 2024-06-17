@@ -40,6 +40,10 @@ My research interest:
 # Projects 💻
 
 ## Quadrotor Control and Motion Planning Algorithm Development
+<img src="https://github.com/Auroraaa06/Auroraaa06.github.io/blob/master/images/carla.png" alt="图片alt" title="图片title">
+<video width="320" height="240" controls>
+    <source src="movie.mp4" type="video/mp4">
+</video>
 
 ## Robotic Arm Control
 
