@@ -9,7 +9,9 @@ redirect_from:
 
 Hi!👋 I'm Luying, a second year master student in Robotics from the University of Pennsylvania. 
 
-I am very fortunate to be advised by [Prof. Mangharam](https://www.seas.upenn.edu/~rahulm/) of X-Lab from [School of Electrical and Systems Engineering](https://www.ese.upenn.edu/) and [Prof. Matni](https://www.grasp.upenn.edu/people/nikolai-matni/) from [UPenn GRASP Lab](https://www.grasp.upenn.edu/), University of Pennsylvania
+I'm currently a Teaching Assistant for class CIS5810 Computer Vision and Computational Photography by [Prof. Jianbo Shi](https://www.cis.upenn.edu/~jshi/).
+
+I am very fortunate to be advised by [Prof. Mangharam](https://www.seas.upenn.edu/~rahulm/) of X-Lab from [School of Electrical and Systems Engineering](https://www.ese.upenn.edu/) and [Prof. Matni](https://www.grasp.upenn.edu/people/nikolai-matni/) from [UPenn GRASP Lab](https://www.grasp.upenn.edu/), University of Pennsylvania.
 
 My research interest:
 - &nbsp; Computer Vision
